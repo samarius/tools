@@ -1,0 +1,7 @@
+{
+    "s3": {
+        "bucket": "bla-bla-log",
+        "access_key": "AKIA-bla-bla-bla",
+        "secret_key": "bla-bla-bla"
+    }
+}
